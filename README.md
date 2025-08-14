@@ -15,4 +15,4 @@
 
 ## 个人公众号 欢迎关注
 
-<img align="left" alt="GIF" src="https://github.com/TLS-802/TLS-802/blob/main/gzh.png" width="260" />
+<img align="left" alt="GIF" src="https://github.com/TLS-802/TLS/blob/main/gzh.png" width="260" />
