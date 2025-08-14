@@ -1,10 +1,9 @@
-# TLS
 
 <!--
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 驼铃电商技术团
+## 驼铃TLS
 
 - 💬 2020年至今，运营抖音店铺
 - 💬 组建了电商交流群、商家互助互补群
